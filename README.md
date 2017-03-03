@@ -15,15 +15,15 @@ Gradle plugin for setting up IntelliJ IDEA project for Play framework projects.
        repositories {
            jcenter()
        }
- 
+
        dependencies {
-           classpath 'org.iatoki:gradle-play-idea:0.4.0'
+           classpath 'org.iatoki:gradle-play-idea:0.4.1'
        }
    }
- 
+
    apply plugin: 'org.iatoki.play-idea'
    ```
-   
+
 ## Features
 
 This plugin will:
